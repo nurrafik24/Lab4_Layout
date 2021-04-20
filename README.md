@@ -1,14 +1,7 @@
 # Lab4_Layout
- #container {
-         widht: 980px;
-         margin: 0 auto;
-         box-shadow: 0 0 lem #cccccc;
-     }
-     /* header */
-     header {
-         padding: 20px;
-     }
-     header h1 {
-         margin : 20px 10px;
-         color: #b5b5b5;
-     }
+## Belajar Layout Sederhana
+
+## Membuat Layout Sederhana
+berikut tampilannya
+![Gambar 1](screenshot/ss2.PNG)
+![Gambar 2](screenshot/ss3.PNG)

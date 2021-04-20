@@ -3,5 +3,5 @@
 
 ## Membuat Layout Sederhana
 berikut tampilannya
-![img](screenshot/ss2.PNG)
-![img](screenshot/ss3.PNG)
+![img]screenshot/ss2.PNG
+![img]screenshot/ss3.PNG
